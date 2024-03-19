@@ -1,0 +1,10 @@
+.sec{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    overflow: scroll;
+    overflow-y: hidden;
+}
+.sec::-webkit-scrollbar{
+    display: none;
+}

@@ -1,0 +1,19 @@
+.Navbar{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+}
+.link{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
